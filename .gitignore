@@ -30,3 +30,13 @@ target/
 *.jar
 *.war
 *.ear
+
+# Logs
+*.log
+
+# Maven wrapper / local settings
+.mvn/wrapper/maven-wrapper.jar
+release.properties
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
